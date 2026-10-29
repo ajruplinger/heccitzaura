@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @heccitzaura
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- Hi my name is Aaron Ruplinger! I'm currently a junior @ UW-Madison majoring in CS and DS, and getting certificates in Geospatial Data Science and Entreprenuership.
 
 <!---
 heccitzaura/heccitzaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
